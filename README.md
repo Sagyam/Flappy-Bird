@@ -1,5 +1,5 @@
 # Flappy-Bird game for Computer
-This is clone of original flappy bird writen Python using pygame
+This is clone of original flappy bird written Python using pygame
 # Installation
 Install python3
 
